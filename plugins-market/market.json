@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "name": "qq_daily_word",
+      "version": "1.0.0",
+      "title": "每日一句",
+      "description": "每天一句「一言」进上下文，她偶尔会冒出一句好听的话（hitokoto.cn 免费接口）。",
+      "zip": "https://github.com/Pigeon2333/zcode-qq-bot-release/releases/download/plugins/qq_daily_word.zip",
+      "size": 1390
+    }
+  ]
+}
